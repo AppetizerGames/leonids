@@ -14,7 +14,7 @@ url: https://appetizergames.github.io/leonids # the base hostname & protocol for
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: https://avatars0.githubusercontent.com/u/29908289?v=3&s=460
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Appetizer Games
+  avatar: logo.png
+  job: "Indie Game Development Studio"
+  bio: ""
   email:
   disqus-shortname:
   twitter: #username
